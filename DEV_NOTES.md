@@ -7,3 +7,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-06
 - Added inline documentation for core functions
+
+## 2026-04-06
+- Tidied up project structure
